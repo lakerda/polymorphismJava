@@ -25,5 +25,6 @@ public class PolimorfizmOrnekBir {
         hazirOl(a);
         hazirOl(e);
         hazirOl(y);
+        hazirOl(a);
     }    
 }
